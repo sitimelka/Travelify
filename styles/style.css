@@ -1,4 +1,10 @@
-body{
-    background-color:orange;
-    font-family:Poppins;
+.footer-content {
+    background-color: skyblue;
+    width:100%;
+}
+
+footer p{
+    color: white;
+    width:513px;
+    
 }
