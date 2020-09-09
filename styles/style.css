@@ -1,11 +1,19 @@
+.footer-content{
+    padding:20px;
+}
+
 .footer-content {
     background-color:#21C7FF;
     width:100%;
     color:white;
 }
 
-footer p{
+.isi p{
    
-    width:513px;
+    width: 513px;
+    height: 118px;
     
+}
+.logo {
+    float:left;
 }
