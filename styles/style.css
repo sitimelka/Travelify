@@ -1,14 +1,15 @@
 .footer-content{
-    padding:80px;
+    padding:50px;
     font-family:Poppins;
     font-size:20px;
 }
 
 .footer-content {
     background-color:#21C7FF;
+    background-size: cover;
     width:100%;
     color:white;
-    height:409px;
+    height:300px;
 }
 
 .isi p{
@@ -24,5 +25,8 @@
 .list-footer1 ul{
     margin-right:100px;
     float:left;
+    text-decoration:none;
+    list-style:none;
 
 }
+
