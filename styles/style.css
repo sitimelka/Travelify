@@ -1,10 +1,11 @@
 .footer-content {
-    background-color: skyblue;
+    background-color:#21C7FF;
     width:100%;
+    color:white;
 }
 
 footer p{
-    color: white;
+   
     width:513px;
     
 }
